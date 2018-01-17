@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "init",
+  "main": "init ",
+  "scripts": {
+    "test": "init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "init"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "oscar",
+  "license": "ISC"
+}
